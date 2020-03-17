@@ -1,3 +1,3 @@
-# intellij-zio-memory-eater
+# intellij-zio-highlighting
 
-viewing intellij-zio-memory-eater/src/main/scala/example/package.scala in intellij idea consumes all allocated memory
+Random syntax highlighting failures with ZIO environments 

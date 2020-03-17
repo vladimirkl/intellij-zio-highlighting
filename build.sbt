@@ -1,4 +1,4 @@
-name := "intellij-zio-memory-eater"
+name := "intellij-zio-highlighting"
 
 version := "0.1"
 
